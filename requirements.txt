@@ -1,0 +1,20 @@
+
+# VGGT dependices
+torch==2.3.1
+torchvision==0.18.1
+numpy==2.0.0
+Pillow
+huggingface_hub
+einops
+safetensors
+
+#SAM3 ultralytics
+ultralytics
+
+
+rerun-sdk==0.31.4
+gradio_rerun==0.31.4
+gradio
+matplotlib
+jaxtyping
+trimesh
